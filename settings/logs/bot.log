@@ -1,0 +1,104 @@
+[26/05/2018 14:48] WARNING client __init__ 138: PyNaCl is not installed, voice will NOT be supported
+[26/05/2018 14:49] INFO client login 352: logging in using static token
+[26/05/2018 14:49] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[26/05/2018 14:49] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[26/05/2018 14:49] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-vmtk, discord-sessions-prd-1-16 (Session ID: 3d81700566f11f545265139e575bd28d).
+[26/05/2018 14:49] WARNING gateway received_message 400: Unknown event SESSIONS_REPLACE.
+[26/05/2018 14:49] INFO state parse_guild_members_chunk 777: Processed a chunk for 952 members in guild ID 156377824322781184.
+[26/05/2018 14:49] INFO state parse_guild_members_chunk 777: Processed a chunk for 169 members in guild ID 258653624345952266.
+[26/05/2018 14:49] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 442 members in guild ID 264445053596991498.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 640 members in guild ID 289805482644865024.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 317712516958650380.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 317712516958650380.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 877 members in guild ID 317712516958650380.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 323842038799925248.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 323842038799925248.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 323842038799925248.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 946 members in guild ID 323842038799925248.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 600 members in guild ID 327199648743686146.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 601 members in guild ID 334343104284852224.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 335407595890409472.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 944 members in guild ID 335407595890409472.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 16 members in guild ID 353301674192011266.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 545 members in guild ID 371706206881841152.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 9 members in guild ID 372061318079053834.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 54 members in guild ID 414908302233698336.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 679 members in guild ID 425730787237691395.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 625 members in guild ID 426503548163850242.
+[26/05/2018 14:50] INFO state parse_guild_members_chunk 777: Processed a chunk for 1 members in guild ID 448873058967748625.
+[26/05/2018 14:50] INFO state _delay_ready 302: Requesting GUILD_SYNC for 17 guilds
+[26/05/2018 14:50] WARNING gateway received_message 400: Unknown event SESSIONS_REPLACE.
+[26/05/2018 14:51] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[26/05/2018 14:52] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[26/05/2018 14:53] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[26/05/2018 14:55] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[26/05/2018 14:55] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[26/05/2018 14:55] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[26/05/2018 14:57] WARNING gateway received_message 400: Unknown event CHANNEL_PINS_ACK.
+[26/05/2018 14:58] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[26/05/2018 14:59] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[26/05/2018 14:59] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[26/05/2018 14:59] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[26/05/2018 14:59] WARNING gateway received_message 400: Unknown event MESSAGE_ACK.
+[06/06/2018 16:58] WARNING client __init__ 138: PyNaCl is not installed, voice will NOT be supported
+[06/06/2018 16:58] INFO client login 352: logging in using static token
+[06/06/2018 16:58] INFO gateway from_client 215: Created websocket connected to wss://gateway.discord.gg?encoding=json&v=6&compress=zlib-stream
+[06/06/2018 16:58] INFO gateway identify 295: Shard ID None has sent the IDENTIFY payload.
+[06/06/2018 16:58] INFO gateway received_message 388: Shard ID None has connected to Gateway: gateway-prd-main-87qx, discord-sessions-prd-1-19 (Session ID: f12e4dcd49724ba76896bfc68230fcb1).
+[06/06/2018 16:58] WARNING gateway received_message 400: Unknown event SESSIONS_REPLACE.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 156377824322781184.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 5 members in guild ID 156377824322781184.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 162 members in guild ID 258653624345952266.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 317712516958650380.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 317712516958650380.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 690 members in guild ID 317712516958650380.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 323842038799925248.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 323842038799925248.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 323842038799925248.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 956 members in guild ID 323842038799925248.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 327199648743686146.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 692 members in guild ID 327199648743686146.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 335407595890409472.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 1000 members in guild ID 335407595890409472.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 55 members in guild ID 335407595890409472.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 16 members in guild ID 353301674192011266.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 9 members in guild ID 372061318079053834.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 65 members in guild ID 414908302233698336.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 620 members in guild ID 426503548163850242.
+[06/06/2018 16:58] INFO state parse_guild_members_chunk 777: Processed a chunk for 2 members in guild ID 448873058967748625.
+[06/06/2018 16:58] INFO state _delay_ready 302: Requesting GUILD_SYNC for 12 guilds
+[06/06/2018 16:59] WARNING gateway received_message 400: Unknown event SESSIONS_REPLACE.
+[06/06/2018 16:59] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[06/06/2018 16:59] WARNING gateway received_message 400: Unknown event SESSIONS_REPLACE.
+[06/06/2018 16:59] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[06/06/2018 16:59] WARNING gateway received_message 400: Unknown event SESSIONS_REPLACE.
+[06/06/2018 16:59] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[06/06/2018 17:00] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
+[06/06/2018 17:02] WARNING gateway received_message 400: Unknown event SESSIONS_REPLACE.
+[06/06/2018 17:02] WARNING gateway received_message 400: Unknown event SESSIONS_REPLACE.
+[06/06/2018 17:02] WARNING state parse_presence_update 434: PRESENCE_UPDATE referencing an unknown guild ID: None. Discarding.
